@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44" started-at="2019-02-05T12:31:44Z" finished-at="2019-02-05T12:31:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44" started-at="2019-02-05T12:31:44Z" finished-at="2019-02-05T12:31:44Z">
+      <class name="com.qait.mavenTestNg.AppTest">
+        <test-method status="PASS" signature="testLetterCaseMatch()[pri:0, instance:com.qait.mavenTestNg.AppTest@b97c004]" name="testLetterCaseMatch" duration-ms="15" started-at="2019-02-05T18:01:44Z" finished-at="2019-02-05T18:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLetterCaseMatch -->
+        <test-method status="PASS" signature="testLetterCaseMatch1()[pri:0, instance:com.qait.mavenTestNg.AppTest@b97c004]" name="testLetterCaseMatch1" duration-ms="1" started-at="2019-02-05T18:01:44Z" finished-at="2019-02-05T18:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLetterCaseMatch1 -->
+        <test-method status="PASS" signature="testLetterMatch()[pri:0, instance:com.qait.mavenTestNg.AppTest@b97c004]" name="testLetterMatch" duration-ms="1" started-at="2019-02-05T18:01:44Z" finished-at="2019-02-05T18:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLetterMatch -->
+      </class> <!-- com.qait.mavenTestNg.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
